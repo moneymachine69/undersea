@@ -9,6 +9,10 @@ var words = [
     "just a clear ice and a clear ice."
 ]
 
+var reWater = [
+    
+]
+
 var lineLength = 24000;
 
 // JavaScript to create a vertical line dynamically
