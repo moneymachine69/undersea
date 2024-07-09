@@ -1,0 +1,13 @@
+body {
+    color: blue;
+}.text {
+    position: absolute;
+    transform: translateX(-100%); /* Move text to the left of the line */
+    white-space: nowrap; /* Prevent text from wrapping */
+    overflow-wrap: break-word; /* Break words to prevent overflow */
+
+}
+.text.right {
+    transform: translateX(0); /* Move text to the right of the line */
+
+}
