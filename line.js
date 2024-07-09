@@ -1,6 +1,6 @@
 // array of fragments to include
 // all are from 'time is the thing a body moves through'
-var words = [
+var wordsV0 = [
     "A waterfall freezes while the water still flows, so first there is a drop-off of ice, hidden at the top of the trickle.",
     "And the ice, accruing in all directions, appears as a permanent froth and rage, suggestive of movement, yet calm, great ice waves formed hard at earth.",
     "I lift ice off the sides of",
@@ -9,8 +9,22 @@ var words = [
     "just a clear ice and a clear ice."
 ]
 
-var reWater = [
-    
+var words = [
+    "The Internet is often considered intangible and digital space a disembodied one. Yet the Internet is, fundamentally, wired.",
+    "Every internet connection passes through cables, connected to other cables, connected to modems, connected to devices. Every call and response travels via light and electricity along the network.",
+    "The material passage is literal, but also historic. The contemporary Internet relies on the infastructure of the transatlantic telecommunications cables, first laid in 1858.",
+    "It was part of the 'Western' globalist project to connect the world. From Walt Whitman, in 'Passage to India':",
+    "'The seas inlaid with eloquent gentle wires; Yet first to sound, and ever sound, the cry with thee O soul, The Past! the Past! the Past!",
+    "The Past—the dark unfathom'd retrospect! The teeming gulf—the sleepers and the shadows! The past—the infinite greatness of the past! For what is the present after all but a growth out of the past?'",
+    "Underneath the opaque sea, almost all of the world's data passes, at the speed of light, along fiberous networks.",
+    "And I sit in Chicago and look out at the lake (though many mistake it for an ocean, given its size).",
+    "In the winter, the ice acts (though passive) to obscure further. When waves crash, the ice freezes in movement's shape.",
+    "From T Fleischmann: 'the ice, ... appears as a permanent froth and rage, suggestive of movement, yet calm,...'",
+    "I cannot help but mourn when I see it.",
+    "Under the ocean, light burns through ceramic and metal cables. Speed! Speed! Speed!",
+    "But on the surface, the ice shifts and glints. Clicks, softly, against the open sky.",
+    "What will the world be when no one remebers the ice?"
+
 ]
 
 var lineLength = 24000;
