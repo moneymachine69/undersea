@@ -12,18 +12,24 @@ var wordsV0 = [
 var words = [
     "The Internet is often considered intangible and digital space a disembodied one. Yet the Internet is, fundamentally, wired.",
     "Every internet connection passes through cables, connected to other cables, connected to modems, connected to devices. Every call and response travels via light and electricity along the network.",
-    "The material passage is literal, but also historic. The contemporary Internet relies on the infastructure of the transatlantic telecommunications cables, first laid in 1858.",
-    "It was part of the 'Western' globalist project to connect the world. From Walt Whitman, in 'Passage to India':",
+    "The material passage is literal, but also historic. The contemporary Internet relies on the infrastructure of the transatlantic telecommunications cables, first laid in 1858.",
+    "The cable was laid as part of the 'Western' globalist project to connect the world. From Walt Whitman, in 'Passage to India':",
     "'The seas inlaid with eloquent gentle wires; Yet first to sound, and ever sound, the cry with thee O soul, The Past! the Past! the Past!",
     "The Past—the dark unfathom'd retrospect! The teeming gulf—the sleepers and the shadows! The past—the infinite greatness of the past! For what is the present after all but a growth out of the past?'",
-    "Underneath the opaque sea, almost all of the world's data passes, at the speed of light, along fiberous networks.",
+    "The routes that the cables trace along the Atlantic floor trace, almost perfectly, the trade ship paths who vesseled for the infamous Triangular Trade.",
+    "From the 16th to 19th centuries, people from Africa were forcibly enslaved and sent to the Americas, where they labored on plantations to produce raw goods such as sugar and tobacco. These goods were then exported to New England and England, the manufactured products of which were then sent to Africa. This ‘triangle’ of labor, manufacturing, and products is colloquially termed the ‘Triangular Trade.’",
+    "This route was impacted by the North Atlantic Gyre, which causes a circular current around the center of the Atlantic.",
+    "The contemporary cables, though carrying an immaterial realm, are still laid by ships. And those ships are dependent on the current.",
+    "Underneath the opaque sea, almost all of the world's data passes, at the speed of light, along fibrous networks.",
     "And I sit in Chicago and look out at the lake (though many mistake it for an ocean, given its size).",
     "In the winter, the ice acts (though passive) to obscure further. When waves crash, the ice freezes in movement's shape.",
     "From T Fleischmann: 'the ice, ... appears as a permanent froth and rage, suggestive of movement, yet calm,...'",
     "I cannot help but mourn when I see it.",
     "Under the ocean, light burns through ceramic and metal cables. Speed! Speed! Speed!",
     "But on the surface, the ice shifts and glints. Clicks, softly, against the open sky.",
-    "What will the world be when no one remebers the ice?"
+    "What will the world be when no one remembers the ice?",
+	"And further forgets what unforgiving plots heralded the cables?"
+
 
 ]
 
