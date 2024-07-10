@@ -33,7 +33,7 @@ var words = [
 
 ]
 
-var lineLength = 24000;
+var lineLength = 28900; // length of The Southern Cross Cable, in km
 
 // JavaScript to create a vertical line dynamically
 document.addEventListener('DOMContentLoaded', function() {
